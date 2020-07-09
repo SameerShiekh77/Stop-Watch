@@ -14,9 +14,9 @@ body {
 }
 
 #heading {
-    color: white;
+    color: red;
     background-color: black;
-    font-size: 55px;
+    font-size: 30px;
     text-align: center;
     font-family: 'Galada', cursive;
     width: 100% !important;
