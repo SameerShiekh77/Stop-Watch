@@ -1,0 +1,62 @@
+body {
+    text-align: center;
+    background-color: black;
+}
+
+.container {
+    border: 2px solid silver;
+    background-color: brown;
+    width: 750px;
+    display: inline-block;
+    text-align: center;
+    border-radius: 500em;
+    height: 120px;
+}
+
+#heading {
+    color: white;
+    background-color: black;
+    font-size: 55px;
+    text-align: center;
+    font-family: 'Galada', cursive;
+    width: 100% !important;
+}
+
+h1 {
+    background-color: white;
+    color: black;
+    display: inline-block;
+    width: 150px;
+    margin-left: 5px;
+    margin-right: 5px;
+    font-size: 30px;
+}
+
+button {
+    display: inline-block;
+    width: 100px;
+    border-radius: 100px;
+    border-color: silver;
+    margin: 5px;
+    width: 120px;
+    color: white;
+}
+
+#start {
+    background-color: green;
+}
+
+#stop {
+    background-color: red;
+}
+
+#reset {
+    background-color: blueviolet;
+}
+
+#start:hover,
+#stop:hover,
+#reset:hover {
+    color: black;
+    background-color: #ffffff;
+}
